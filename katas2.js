@@ -8,7 +8,6 @@ console.assert(add(3, 5) === 8, 'A função add não está funcionando como espe
 
 
 // comece a criar a sua função multiply na linha abaixo
-
 function multiply(number1, number2) {
     let multipli = 0;
   
