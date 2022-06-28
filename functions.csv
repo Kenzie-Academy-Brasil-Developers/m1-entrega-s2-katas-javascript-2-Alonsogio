@@ -1,0 +1,14 @@
+multiply;multipli;let i = 0;i < number2;i++;multipli = add(number1, multipli)
+;0;0;true;1;2
+;2;1;true;2;4
+;4;2;false;undefined;4
+;;;;;
+power;expo;let pot = 1;pot < n;pot++;" expo = multiply(x, expo)"
+;1;1;true;2;3
+;3;2;true;3;5
+;5;3;false;undefined;5
+;;;;;
+factorial;fac;let rial = 1;rial <= y;rial++;fac = multiply(fac, rial)
+;1;1;true;2;2
+;2;2;true;3;6
+;6;3;false;undefined;6
